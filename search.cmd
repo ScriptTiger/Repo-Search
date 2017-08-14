@@ -1,6 +1,13 @@
 @echo off
 
 rem =====
+rem For more information on ScriptTiger and more ScriptTiger scripts visit the following URL:
+rem https://scripttiger.github.io/
+rem Or visit the following URL for the latest information on this ScriptTiger script:
+rem https://github.com/ScriptTiger/Repo-Search
+rem =====
+
+rem =====
 rem Remember current directory for file output
 rem =====
 
