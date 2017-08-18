@@ -6,5 +6,5 @@ This script is nice for programmers trying to find all the references to somethi
 You can easily make a shortcut to search a specific repo with one click by sending the root and files to search as parameters in a short one-line script:  
     @search.cmd "c:\blah\blah\myrepo" "*.txt *.c *.h"
 
-You can download this repo from the below link to get started:
+You can download this repo from the below link to get started:  
 https://github.com/ScriptTiger/Repo-Search/archive/master.zip
