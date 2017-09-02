@@ -8,3 +8,6 @@ You can easily make a shortcut to search a specific repo with one click by sendi
 
 You can download this repo from the below link to get started:  
 https://github.com/ScriptTiger/Repo-Search/archive/master.zip
+
+If you would like to show your support for ScriptTiger, check out the Patreon page to find out how:  
+https://www.patreon.com/ScriptTiger
