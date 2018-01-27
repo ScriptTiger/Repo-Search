@@ -1,3 +1,5 @@
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ScriptTiger)
+
 # Repo Search
 Tool to instantly search all or specific files in any repo for keywords or phrases natively on Windows extremely easily, with an option to output results to a file.
 
